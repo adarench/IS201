@@ -1,0 +1,15 @@
+.bg{
+    background-color: cadetblue;
+}
+
+div{
+    scroll-padding: 100px;
+    border: coral;
+}
+
+text{
+    text-decoration: black;
+    text-size-adjust: 18pt;
+    text-align-last: center;
+}
+
